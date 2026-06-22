@@ -1,0 +1,6 @@
+{
+  "name": "Nee-Manga",
+  "description": "Premium amoled-black design comic and manga reader app powered by KMKIndo click.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
